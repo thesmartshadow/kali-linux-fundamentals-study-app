@@ -1,0 +1,5 @@
+{
+  "name": "Kali Linux Fundamentals Study App",
+  "description": "An interactive, bilingual study platform to master the fundamentals of Kali Linux. Features AI-generated quizzes, flashcards, and progress reports based on your lecture notes.",
+  "requestFramePermissions": []
+}
